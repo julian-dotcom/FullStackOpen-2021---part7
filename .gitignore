@@ -1,2 +1,7 @@
 anecdotes/node_modules
 countries/node_modules
+ultimate-hooks/node_modules
+
+anecdotes/public
+countries/public
+ultimate-hooks/public
